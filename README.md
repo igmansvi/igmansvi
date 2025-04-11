@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile 🚀
 
-Hi there! I'm **igmansvi**, a passionate developer and tech enthusiast. My GitHub is a collection of projects that showcase my journey through programming, problem-solving, and learning new technologies.
+Hi there! I'm **Mansvi**, a passionate developer and tech enthusiast. My GitHub is a collection of projects that showcase my journey through programming, problem-solving, and learning new technologies.
 
 ---
 
