@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+there!+👋+I'm+Mansvi;Developer+by+Passion;Open+Source+Contributer+for+Tech;Learning+with+Curiousity;Solving+Problems+by+Work;Building+What's+Real;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+there!+👋+I'm+Mansvi;Developer+by+Passion;Open+Source+Contributor+for+Tech;Learning+with+Curiosity;Solving+Problems+through+Work;Building+What's+Real;" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -38,13 +38,16 @@ I'm a developer by passion, focused on building projects that solve real-world p
         <a href="https://defy-m4vi.web.app">
           <img src="https://img.shields.io/badge/🏦_Defy-Smart_Finance_Platform-FF6B6B?style=for-the-badge&logoColor=white" alt="Defy Project" />
         </a>
-        <br/>
+      </td>
+      <td align="center">
+        <a href="https://github.com/igmansvi/docket">
+          <img src="https://img.shields.io/badge/📝_Docket-Notesheet_Tracking_App-45B7D1?style=for-the-badge&logoColor=white" alt="Docket Project" />
+        </a>
       </td>
       <td align="center">
         <a href="https://quick-gear.vercel.app">
           <img src="https://img.shields.io/badge/⚡_QuickGear-Equipment_Rental_Site-4ECDC4?style=for-the-badge&logoColor=white" alt="QuickGear Project" />
         </a>
-        <br/>
       </td>
     </tr>
   </table>
