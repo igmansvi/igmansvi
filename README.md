@@ -25,7 +25,7 @@ I'm a developer by passion, focused on building projects that solve real-world p
 ### 🎯 Current Focus
 - 🔭 Working on innovative web applications
 - 👯 Open to collaborating on impactful projects
-- 🌱 Learning advanced system design and cloud architecture
+- 🌱 Learning system design, cloud and AI/ML architectures
 
 <br clear="both"/>
 
